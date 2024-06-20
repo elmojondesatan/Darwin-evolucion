@@ -103,6 +103,7 @@ header {
 
     .timeline-item::after {
         left: 15px;
+        right: auto;
     }
 
     .timeline-item:nth-child(even) {
@@ -114,14 +115,17 @@ header {
     .timeline {
         max-width: 100%;
     }
+
     .timeline-item {
         width: 100%;
         left: 0;
         padding-left: 40px;
         padding-right: 40px;
     }
+
     .timeline-item::after {
         left: 50%;
+        right: auto;
         margin-left: -12px;
     }
 }
@@ -130,6 +134,7 @@ header {
     .timeline {
         max-width: 100%;
     }
+
     .timeline-item {
         width: 50%;
     }
@@ -139,6 +144,7 @@ header {
     .timeline {
         max-width: 1200px;
     }
+
     .timeline-item {
         width: 50%;
     }

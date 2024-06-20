@@ -4,6 +4,9 @@ DOM_evolucion8.innerHTML = `
     <header>
         <h1>Bienvenido a la evolución de las Armas nucleares</h1>
     </header>
+    
+    
+    
     <div class="timeline">
         <div class="timeline-item">
             <div class="timeline-content">
@@ -14,6 +17,9 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://naukas.com/fx/uploads/2010/08/Einstein-y-Szilard.jpg" alt="" class="img_bomba">
             </div>
         </div>
+        
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Hiroshima y Nagasaki</h2>
@@ -23,6 +29,9 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Little_boy.jpg/1200px-Little_boy.jpg" alt="">
             </div>
         </div>
+        
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>La Guerra Fría y la Proliferación</h2>
@@ -32,6 +41,9 @@ DOM_evolucion8.innerHTML = `
                 <span class="timeline-date">1945-1991</span>
             </div>
         </div>
+        
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Desarrollos Tecnológicos</h2>
@@ -41,6 +53,9 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://i0.wp.com/criptotendencia.com/wp-content/uploads/2019/05/Inteligencia-Artificial-Armas-Nucleares.jpg?fit=880%2C616&ssl=1&resize=1280%2C720" alt="">
             </div>
         </div>
+        
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Control de Armas</h2>
@@ -49,14 +64,20 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://vientosur.info/wp-content/uploads/spip/arton12849.jpg" alt="">
             </div>
         </div>
+        
+        
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Perspectivas Futuras</h2>
                 <p>Proliferación y Desafíos Actuales: Algunos países como Corea del Norte han desarrollado armas nucleares, desafiando los esfuerzos de no proliferación. Nuevas Tecnologías: Avances en ciberseguridad y tecnologías de inteligencia artificial podrían cambiar la naturaleza de la disuasión nuclear y la estrategia militar en el futuro.</p>
                 <span class="timeline-date">2024</span>
-                <img src="https://images.ecestaticos.com/D3czczwVRb9tBB0qhg3f8KZ3djI=/0x0:1920x1097/1338x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa6e%2F00b%2F6bf%2Fa6e00b6bfc5985f9ea67a8918272e5d1.jpg" alt="">
+                <img src="https://images.ecestaticos.com/D3czczwVRb9tBB0qhg3f8KZ3djI=/0x0:1920x1097/133" alt="">
             </div>
         </div>
+        
+        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Conclusión</h2>
