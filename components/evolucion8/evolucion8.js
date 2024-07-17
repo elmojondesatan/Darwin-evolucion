@@ -5,8 +5,6 @@ DOM_evolucion8.innerHTML = `
         <h1>Bienvenido a la evolución de las Armas nucleares</h1>
     </header>
     
-    
-    
     <div class="timeline">
         <div class="timeline-item">
             <div class="timeline-content">
@@ -18,8 +16,6 @@ DOM_evolucion8.innerHTML = `
             </div>
         </div>
         
-        
-        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Hiroshima y Nagasaki</h2>
@@ -29,8 +25,6 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Little_boy.jpg/1200px-Little_boy.jpg" alt="">
             </div>
         </div>
-        
-        
         
         <div class="timeline-item">
             <div class="timeline-content">
@@ -42,8 +36,6 @@ DOM_evolucion8.innerHTML = `
             </div>
         </div>
         
-        
-        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Desarrollos Tecnológicos</h2>
@@ -54,8 +46,6 @@ DOM_evolucion8.innerHTML = `
             </div>
         </div>
         
-        
-        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Control de Armas</h2>
@@ -65,9 +55,6 @@ DOM_evolucion8.innerHTML = `
             </div>
         </div>
         
-        
-        
-        
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>Perspectivas Futuras</h2>
@@ -76,7 +63,6 @@ DOM_evolucion8.innerHTML = `
                 <img src="https://images.ecestaticos.com/D3czczwVRb9tBB0qhg3f8KZ3djI=/0x0:1920x1097/133" alt="">
             </div>
         </div>
-        
         
         <div class="timeline-item">
             <div class="timeline-content">
