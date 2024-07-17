@@ -5,12 +5,11 @@ body {
     margin: 0;
 }
 
-header {
+.mh1 {
     background-color: #6ca8ca;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
-    font-size: 18px; /* Reducido de 20px */
 }
 
 .timeline {
@@ -21,7 +20,13 @@ header {
 
 .img_bomba {
     width: 100%;
-    max-width: 250px; /* Reducido de 300px */
+    max-width: 250px; 
+    height: auto;
+}
+
+.img_blanco {
+    width: 100%;
+    max-width: 250px; 
     height: auto;
 }
 
@@ -37,15 +42,14 @@ header {
 }
 
 .timeline-item {
-    padding: 10px 30px; /* Reducido de 10px 40px */
-    position: relative;
+    padding: 30px 30px; 
     background-color: inherit;
     width: 50%;
 }
 
 .timeline-item img {
     width: 100%;
-    max-width: 200px; /* Reducido de 250px */
+    max-width: 200px;
     height: auto;
 }
 
@@ -60,8 +64,8 @@ header {
 .timeline-item::after {
     content: '';
     position: absolute;
-    width: 20px; /* Reducido de 25px */
-    height: 20px; /* Reducido de 25px */
+    width: 20px; 
+    height: 20px; 
     right: -17px;
     top: 15px;
     border-radius: 50%;
@@ -73,22 +77,22 @@ header {
 }
 
 .timeline-content {
-    padding: 15px; /* Reducido de 20px */
+    padding: 15px;
     background-color: white;
     position: relative;
     border-radius: 6px;
 }
 
 .timeline-content h2 {
-    font-size: 16px; /* Reducido de 20px */
+    font-size: 16px; 
 }
 
 .timeline-content p {
-    font-size: 14px; /* Reducido de 16px */
+    font-size: 14px;
 }
 
 .timeline-date {
-    font-size: 12px; /* Reducido de 14px */
+    font-size: 12px;
     font-weight: bold;
     color: #1e90ff;
     position: absolute;
@@ -103,8 +107,8 @@ header {
 
     .timeline-item {
         width: 100%;
-        padding-left: 60px; /* Reducido de 70px */
-        padding-right: 20px; /* Reducido de 25px */
+        padding-left: 60px; 
+        padding-right: 20px;
     }
 
     .timeline-item::after {
@@ -125,8 +129,8 @@ header {
     .timeline-item {
         width: 100%;
         left: 0;
-        padding-left: 30px; /* Reducido de 40px */
-        padding-right: 30px; /* Reducido de 40px */
+        padding-left: 40px;
+        padding-right: 40px; 
     }
 
     .timeline-item::after {

@@ -1,7 +1,7 @@
 let DOM_evolucion8 = document.querySelector("#evolucion8");
 DOM_evolucion8.innerHTML = `
 <body>
-    <header>
+    <header class="mh1">
         <h1>Bienvenido a la evolución de las Armas nucleares</h1>
     </header>
     
@@ -22,7 +22,7 @@ DOM_evolucion8.innerHTML = `
                 <p>La bomba "Little Boy", de uranio, fue lanzada sobre Hiroshima, matando instantáneamente a alrededor de 70,000 personas, con decenas de miles muriendo posteriormente debido a las heridas y la radiación.</p>
                 <p>La bomba "Fat Man", de plutonio, fue lanzada sobre Nagasaki, resultando en la muerte instantánea de aproximadamente 40,000 personas, con muchas más muertes subsecuentes.</p>
                 <span class="timeline-date">1945</span>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Little_boy.jpg/1200px-Little_boy.jpg" alt="">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Little_boy.jpg/1200px-Little_boy.jpg" alt="" class="img_blanco">
             </div>
         </div>
         
